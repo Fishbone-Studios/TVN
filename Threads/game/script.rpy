@@ -27,7 +27,7 @@ label start:
     "Maybe I can use this to show the thoughts of the character."
     show Locke normal with moveinleft
     
-    l "I'm testing writing my first game."
+    l "I'm testing writing my first game. I did a powerpoint!! Look at me!"
 
     l blush "This is okay." with dissolve
     
