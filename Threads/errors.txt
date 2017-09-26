@@ -2,8 +2,8 @@
 errors listed below, and try again.
 
 
-File "game/script.rpy", line 32: expected statement.
-    e thinking with dissolve "This is okay."
-                             ^
+File "game/scenes/locke/Locke_scene_1.rpy", line 31: choice menuitem expects a non-empty block.
+    "I think I'd better find a bathroom...":
+                                            ^
 
 Ren'Py Version: Ren'Py 6.99.12.4.2187
